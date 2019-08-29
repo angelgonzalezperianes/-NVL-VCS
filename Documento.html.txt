@@ -5,5 +5,8 @@
   <title>Mi página web</title>
 </head>
 
+<body>
+Ésta es una descripción sobre la página que estoy confeccionando
+</body>
 
 </html>
